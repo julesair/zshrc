@@ -1,0 +1,8 @@
+
+. ~/.zsh/options
+. ~/.zsh/completion
+. ~/.zsh/aliases
+. ~/.zsh/git-aliases
+. ~/.zsh/nvm
+. ~/.zsh/nvm-autoload
+
